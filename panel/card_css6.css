@@ -314,6 +314,7 @@ margin: 20px auto;}
     bottom: 0;
     left: 0;
     overflow-x: auto;
+    z-index: 1000;
 }
 
 .menu_container {width: auto;
@@ -378,6 +379,7 @@ margin: 20px auto;}
     font-weight: 500;
     text-transform: uppercase;
 }
+
 
 
 
